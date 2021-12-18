@@ -9,7 +9,7 @@ Zeppelin's CLA is signed on a per-GitHub-account basis, requiring you to reveal 
 Due to this, **the CLA is only considered signed for [verified commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) from the GitHub account that signed the agreement** and any past contributions from the account prior to signing.
 In practice, this means any and all of your contributions will need to use [signed commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification).
 
-To sign the CLA, create a PR to this repository that adds a file in the `signatures` folder with your username. For example, `signatures/Dragory.md`. [**This commit must be marked as verified by GitHub.**](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification).
+To sign the CLA, create a PR to this repository that adds a file in the `signatures` folder with your username. For example, `signatures/Dragory.md`. [**This commit must be marked as verified by GitHub.**](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification). You can see an example at [#1](https://github.com/ZeppelinBot/CLA/pull/1).
 
 Within this file, include the following contents:
 
