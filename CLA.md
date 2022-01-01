@@ -6,7 +6,7 @@ The purpose of this contributor agreement ("Agreement") is to clarify and docume
 
 ### How to use this Contributor Agreement
 
-If You are an employee and have created the Contribution as part of your employment, You need to have Your employer approve this Agreement or sign the Entity version of this document. If You do not own the Copyright in the entire work of authorship, any other author of the Contribution should also sign this – in any event, please contact Us at contact@mivir.fi
+If You are an employee and have created the Contribution as part of your employment, You need to have Your employer approve this Agreement. If You do not own the Copyright in the entire work of authorship, any other author of the Contribution should also sign this – in any event, please contact Us at contact@mivir.fi
 
 ### 1\. Definitions
 
@@ -80,7 +80,7 @@ IF THE DISCLAIMER AND DAMAGE WAIVER MENTIONED IN SECTION 4. AND SECTION 5. CANNO
 
 7.1 This Agreement shall come into effect upon Your acceptance of the terms and conditions.
 
-7.3 In the event of a termination of this Agreement Sections 4, 5, 6, 7 and 8 shall survive such termination and shall remain in full force thereafter. For the avoidance of doubt, Free and Open Source Software (sub)licenses that have already been granted for Contributions at the date of the termination shall remain in full force after the termination of this Agreement.
+7.2 In the event of a termination of this Agreement Sections 4, 5, 6, 7 and 8 shall survive such termination and shall remain in full force thereafter. For the avoidance of doubt, Free and Open Source Software (sub)licenses that have already been granted for Contributions at the date of the termination shall remain in full force after the termination of this Agreement.
 
 ### 8 Miscellaneous
 
@@ -93,3 +93,11 @@ IF THE DISCLAIMER AND DAMAGE WAIVER MENTIONED IN SECTION 4. AND SECTION 5. CANNO
 8.4 If any provision of this Agreement is found void and unenforceable, such provision will be replaced to the extent possible with a provision that comes closest to the meaning of the original provision and that is enforceable. The terms and conditions set forth in this Agreement shall apply notwithstanding any failure of essential purpose of this Agreement or any limited remedy to the maximum extent possible under law.
 
 8.5 You agree to notify Us of any facts or circumstances of which you become aware that would make this Agreement inaccurate in any respect.
+
+#### Recreate this Contributor License Agreement
+
+[https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=Dragory&project-name=Zeppelin&project-website=https%3A%2F%2Fzeppelin.gg&project-email=contact%40mivir.fi&process-url=https%3A%2F%2Fgithub.com%2FZeppelinBot%2FCLA%2Fblob%2Fmain%2FREADME.md&project-jurisdiction=Finland&agreement-exclusivity=exclusive&fsfe-compliance=&fsfe-fla=&outbound-option=no-commitment&outboundlist=&outboundlist-custom=&medialist=\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&patent-option=Traditional&your-date=&your-name=&your-title=&your-address=&your-patents=&pos=apply&action=](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=Dragory&project-name=Zeppelin&project-website=https%3A%2F%2Fzeppelin.gg&project-email=contact%40mivir.fi&process-url=https%3A%2F%2Fgithub.com%2FZeppelinBot%2FCLA%2Fblob%2Fmain%2FREADME.md&project-jurisdiction=Finland&agreement-exclusivity=exclusive&fsfe-compliance=&fsfe-fla=&outbound-option=no-commitment&outboundlist=&outboundlist-custom=&medialist=____________________&patent-option=Traditional&your-date=&your-name=&your-title=&your-address=&your-patents=&pos=apply&action=)
+
+[](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=Dragory&project-name=Zeppelin&project-website=https%3A%2F%2Fzeppelin.gg&project-email=contact%40mivir.fi&process-url=https%3A%2F%2Fgithub.com%2FZeppelinBot%2FCLA%2Fblob%2Fmain%2FREADME.md&project-jurisdiction=Finland&agreement-exclusivity=exclusive&fsfe-compliance=&fsfe-fla=&outbound-option=no-commitment&outboundlist=&outboundlist-custom=&medialist=____________________&patent-option=Traditional&your-date=&your-name=&your-title=&your-address=&your-patents=&pos=apply&action=)
+
+[](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=Dragory&project-name=Zeppelin&project-website=https%3A%2F%2Fzeppelin.gg&project-email=contact%40mivir.fi&process-url=https%3A%2F%2Fgithub.com%2FZeppelinBot%2FCLA%2Fblob%2Fmain%2FREADME.md&project-jurisdiction=Finland&agreement-exclusivity=exclusive&fsfe-compliance=&fsfe-fla=&outbound-option=no-commitment&outboundlist=&outboundlist-custom=&medialist=____________________&patent-option=Traditional&your-date=&your-name=&your-title=&your-address=&your-patents=&pos=apply&action=)
