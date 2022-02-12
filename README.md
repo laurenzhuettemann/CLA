@@ -1,7 +1,5 @@
 # Zeppelin's Contributor License Agreement (CLA)
 
-**NOTE:** This agreement and process is still a work in progress. Please wait for a call-to-action/this notice to disappear before signing.
-
 If you're interested in contributing to Zeppelin, you will first need to sign a Contributor License Agreement.
 This agreement gives the developer the ability to license and release your contribution in the project, and sets several expectations for both parties. You can see the full CLA in [CLA.md](./CLA.md).
 
