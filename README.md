@@ -7,7 +7,7 @@ This agreement gives the developer the ability to license and release your contr
 
 Zeppelin's CLA is signed on a per-GitHub-account basis, requiring you to reveal no personal information.
 
-To sign the CLA, create a PR to this repository that adds a file in the `signatures` folder with your username. For example, `signatures/Dragory.md`.  
+To sign the CLA, create a PR to this repository that adds a file in the `signatures` folder with your GitHub username. For example, `signatures/Dragory.md`.  
 **NOTE:** [**This commit must be marked as verified by GitHub.**](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) The easiest way to do this is to create the file on GitHub directly.
 
 Within this file, include the following contents:
